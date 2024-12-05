@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">egci428_labquiz3_2024-25T1</string>
+    <string name="title_activity_route_maps">RouteMapsActivity</string>
+    <string name="title_activity_route_view">RouteViewActivity</string>
+</resources>
